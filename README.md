@@ -7,3 +7,4 @@ solana blockchain cli query tool
 + identify/track whales
 + new SPL tokens
 + NFT volume increase
++ wallet asset tracking
